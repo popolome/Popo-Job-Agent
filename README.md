@@ -182,10 +182,8 @@ Every agent run is automatically traced in LangSmith:
 | **Search** | Tavily API (web search optimized for LLMs) |
 | **Scraping** | BeautifulSoup4 + Requests |
 | **Monitoring** | LangSmith (traces, latency, cost tracking) |
-| **Backend** | FastAPI (API server, not used in UI yet) |
 | **Frontend** | Streamlit (web UI with tabs and download buttons) |
 | **Deployment** | Streamlit Cloud (direct GitHub integration) |
-| **CI/CD** | GitHub Actions (auto-tests on push) |
 
 ---
 
