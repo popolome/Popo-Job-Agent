@@ -69,23 +69,44 @@ All orchestrated by **LangGraph** with full state management and error routing.
 ## 📸 Demo: 3 Different Roles, 3 Different Outputs
 
 ### Banking Role (UOB Data Scientist)
+
+**Skills Gap Analysis:**
 ![UOB Skills Gap](screenshots/uob_skills_gap.png)
 
 **Gaps identified:** Scalable data infrastructure, financial domain problem-solving
 
+**Interview Questions:**
+![UOB Interview Questions](screenshots/uob_interview_qs.png)
+
+Notice how questions focus on **ETL with large datasets** and **presenting to non-technical stakeholders** — banking-specific requirements.
+
 ---
 
 ### Consulting Role (EY Junior AI Engineer)
+
+**Skills Gap Analysis:**
 ![EY Skills Gap](screenshots/ey_skills_gap.png)
 
 **Gaps identified:** R/Java proficiency, Tableau, Azure/GCP, **soft skills** (diversity/inclusion)
 
+**Interview Questions:**
+![EY Interview Questions](screenshots/ey_interview_qs.png)
+
+Questions emphasize **staying updated with AI technologies** and **adaptability** — consulting firm priorities.
+
 ---
 
 ### Conservation Role (Mandai Wildlife AI Specialist)
+
+**Skills Gap Analysis:**
 ![Mandai Skills Gap](screenshots/mandai_skills_gap.png)
 
 **Gaps identified:** **Passion for conservation** (mission fit!), MLOps frameworks (MLflow/Kubeflow)
+
+**Interview Questions:**
+![Mandai Interview Questions](screenshots/mandai_interview_qs.png)
+
+Question 3: *"How would you align AI solutions with our mission of sustainability and conservation?"* — You wouldn't get this at a bank!
 
 ---
 
