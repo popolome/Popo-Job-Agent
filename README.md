@@ -92,6 +92,14 @@ All orchestrated by **LangGraph** with full state management and error routing.
 
 ---
 
+## 🖥️ User Interface
+
+![Streamlit UI](screenshots/streamlit_ui_hero.png)
+
+Clean, intuitive interface — just paste your profile, enter job details, and click "Run agent."
+
+---
+
 ## 📸 Demo: 3 Different Roles, 3 Different Outputs
 
 ### Banking Role (UOB Data Scientist)
