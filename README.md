@@ -15,9 +15,9 @@
 
 Give it a job title and company name. In 30 seconds, get:
 
-1. **📊 Skills Gap Analysis** — Know exactly what you're missing before you apply
-2. **💬 Role-Specific Interview Questions** — Prep with questions tailored to the actual JD, not generic lists
-3. **📝 Tailored Cover Letter** — Starting point for your application
+1. **📝 Tailored Cover Letter** — Starting point for your application
+2. **📊 Skills Gap Analysis** — Know exactly what you're missing before you apply
+3. **💬 Role-Specific Interview Questions** — Prep with questions tailored to the actual JD, not generic lists
 4. **🔍 Source Citations** — All research is cited with real URLs
 
 **This isn't another ChatGPT wrapper.** It's a fully autonomous multi-agent system that researches, analyzes, and generates actionable insights without human intervention.
