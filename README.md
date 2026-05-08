@@ -24,6 +24,32 @@ Give it a job title and company name. In 30 seconds, get:
 
 ---
 
+## 🤖 What is Agentic AI?
+
+**Regular AI (like ChatGPT):** You ask → it answers → done.
+
+**Agentic AI:** You give it a goal → it plans steps → executes them autonomously → uses tools → self-corrects → produces results.
+
+**Example:**
+
+| Regular AI | Agentic AI (This Project) |
+|------------|---------------------------|
+| User: "Write me a cover letter for DBS" | User: "Research DBS Data Scientist role" |
+| AI: Writes generic letter immediately | Agent: "I need to search the web first..." |
+| Done in 5 seconds | → Searches 5 job sites |
+| | → Scrapes the actual JD |
+| | → Researches company background |
+| | → Compares JD to your profile |
+| | → Writes tailored letter |
+| | → Analyzes skills gaps |
+| | → Generates role-specific questions |
+| | → Cites all sources |
+| | Done in 30 seconds |
+
+**The key difference:** Agentic AI breaks down complex goals into steps, uses external tools (search, scraping), and works independently. You're not micromanaging each action.
+
+---
+
 ## 🚀 Key Features
 
 ### 🎯 Skills Gap Analysis (The Real Value)
@@ -238,7 +264,7 @@ This project covers the top gaps identified in my JD analysis of 48 Data Scienti
 - ✅ **Responsible AI** — Confidence scoring, hallucination flagging, source citations
 - ✅ **Model monitoring** — LangSmith tracing for latency, cost, and output quality
 - ✅ **Tool use / API integration** — Tavily search, web scraping
-- ✅ **MLOps** — CI/CD, cloud deployment
+- ✅ **Cloud deployment** — Streamlit Cloud hosting with environment secrets
 - ✅ **ReAct reasoning** — Observe → Reason → Act loop
 
 ---
