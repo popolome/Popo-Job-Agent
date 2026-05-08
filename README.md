@@ -1,6 +1,6 @@
 # Popo-Job-Agent 🤖
 
-**Multi-agent AI system for intelligent job application research**
+**Agentic AI system for intelligent job application research**
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-popo--job--agent.streamlit.app-FF4B4B?style=for-the-badge)](https://popo-job-agent.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-popolome%2FPopo--Job--Agent-181717?style=for-the-badge&logo=github)](https://github.com/popolome/Popo-Job-Agent)
