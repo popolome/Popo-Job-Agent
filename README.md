@@ -184,9 +184,8 @@ Every agent run is automatically traced in LangSmith:
 | **Monitoring** | LangSmith (traces, latency, cost tracking) |
 | **Backend** | FastAPI (API server, not used in UI yet) |
 | **Frontend** | Streamlit (web UI with tabs and download buttons) |
-| **Deployment** | Streamlit Cloud (free hosting) |
+| **Deployment** | Streamlit Cloud (direct GitHub integration) |
 | **CI/CD** | GitHub Actions (auto-tests on push) |
-| **Containerization** | Docker (reproducible environment) |
 
 ---
 
@@ -241,7 +240,7 @@ This project covers the top gaps identified in my JD analysis of 48 Data Scienti
 - ✅ **Responsible AI** — Confidence scoring, hallucination flagging, source citations
 - ✅ **Model monitoring** — LangSmith tracing for latency, cost, and output quality
 - ✅ **Tool use / API integration** — Tavily search, web scraping
-- ✅ **MLOps** — Docker, CI/CD, cloud deployment
+- ✅ **MLOps** — CI/CD, cloud deployment
 - ✅ **ReAct reasoning** — Observe → Reason → Act loop
 
 ---
